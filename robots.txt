@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://levallois-perret-92300.maisonvalet.fr/sitemap.xml
